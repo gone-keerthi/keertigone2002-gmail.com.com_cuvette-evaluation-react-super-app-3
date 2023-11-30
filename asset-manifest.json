@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/keertigone2002-gmail.com.com_cuvette-evaluation-react-super-app-3./static/css/main.27ba7de6.css",
+    "main.js": "/keertigone2002-gmail.com.com_cuvette-evaluation-react-super-app-3./static/js/main.bd3b5b37.js",
+    "static/media/page1_bg.png": "/keertigone2002-gmail.com.com_cuvette-evaluation-react-super-app-3./static/media/page1_bg.8857d6fcfd7707d4c33e.png",
+    "static/media/drama.png": "/keertigone2002-gmail.com.com_cuvette-evaluation-react-super-app-3./static/media/drama.81819a5e30c4f7746532.png",
+    "static/media/romance.png": "/keertigone2002-gmail.com.com_cuvette-evaluation-react-super-app-3./static/media/romance.cfc03b97f5831eb5ced2.png",
+    "static/media/profileBig.png": "/keertigone2002-gmail.com.com_cuvette-evaluation-react-super-app-3./static/media/profileBig.09fc9fa9f8da0aa5aecc.png",
+    "static/media/horror.png": "/keertigone2002-gmail.com.com_cuvette-evaluation-react-super-app-3./static/media/horror.c1a142e9718e95b7e3ad.png",
+    "static/media/fantasy.png": "/keertigone2002-gmail.com.com_cuvette-evaluation-react-super-app-3./static/media/fantasy.adeb93b762a234edb7cd.png",
+    "static/media/thriller.png": "/keertigone2002-gmail.com.com_cuvette-evaluation-react-super-app-3./static/media/thriller.01652a201fd6c1534f4c.png",
+    "static/media/fiction.png": "/keertigone2002-gmail.com.com_cuvette-evaluation-react-super-app-3./static/media/fiction.3006b346255115ade387.png",
+    "static/media/western.png": "/keertigone2002-gmail.com.com_cuvette-evaluation-react-super-app-3./static/media/western.958e9c9312dbe8cf846e.png",
+    "static/media/music.png": "/keertigone2002-gmail.com.com_cuvette-evaluation-react-super-app-3./static/media/music.7d580e847a50a654728a.png",
+    "static/media/action.png": "/keertigone2002-gmail.com.com_cuvette-evaluation-react-super-app-3./static/media/action.0415ab80e9b5e42c23e3.png",
+    "static/media/profileSmall.png": "/keertigone2002-gmail.com.com_cuvette-evaluation-react-super-app-3./static/media/profileSmall.b7185ca207eb7604d6b0.png",
+    "index.html": "/keertigone2002-gmail.com.com_cuvette-evaluation-react-super-app-3./index.html",
+    "main.27ba7de6.css.map": "/keertigone2002-gmail.com.com_cuvette-evaluation-react-super-app-3./static/css/main.27ba7de6.css.map",
+    "main.bd3b5b37.js.map": "/keertigone2002-gmail.com.com_cuvette-evaluation-react-super-app-3./static/js/main.bd3b5b37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ba7de6.css",
+    "static/js/main.bd3b5b37.js"
+  ]
+}
